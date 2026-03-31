@@ -1,3 +1,10 @@
+Elza Khoirisma Carrynda 24060124130065
+Amelia Aristianti 24060124120008
+Dinda Isyariani 24060124140165
+Zulfa Nabilah 24060124130095
+Novelya Cherina 24060124140174
+
+
 import java.time.LocalDate;
 
 public class Main {
